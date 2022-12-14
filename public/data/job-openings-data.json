@@ -966,6 +966,64 @@
         "experience": "1-3 years"
        }
       ]
+    },
+    {
+      "id": 22,
+      "companyName": "Fynd",
+      "location": "Ahmedabad, India",
+      "bio": "Fynd is India's largest omnichannel platform and multi-platform tech company with expertise in retail tech and products in AI, ML, big data ops, gaming+crypto, image editing and learning space.",
+      "companyLogoUrl": "https://drive.google.com/file/d/1_rXez4oU2LgpkwRvANfxULkQIO9DY70y/view?usp=share_link",
+      "companyWebsite": "https://www.omnifynd.com/",
+      "companyCareerPage": "https://jobs.lever.co/fynd/?location=Ahmedabad",
+      "linkedin": "https://www.linkedin.com/company/fynd-shopsense/",
+      "hiringImageUrl": "",
+      "openings": [
+        {
+          "title": "Data Engineer",
+          "count": 2,
+          "experience": "2-5 year"
+        },
+        {
+          "title": "Data Scientist",
+          "count": 1,
+          "experience": "2-5 year"
+        },
+        {
+          "title": "ML Engineer",
+          "count": 2,
+          "experience": "1-5 years"
+        },
+        {
+          "title": "Python",
+          "count": 1,
+          "experience": "1+ years"
+        },
+        {
+          "title": "Android",
+          "count": 2,
+          "experience": "3-5 years"
+        },
+        {
+          "title": "DevOps",
+          "count": 1,
+          "experience": "2-5 years"
+        },
+        {
+          "title": "FrontEnd",
+          "count": 2,
+          "experience": "1-5 years"
+        },
+        {
+          "title": "FullStack JavaScript",
+          "count": 1,
+          "experience": "1-5 years"
+        },
+        {
+          "title": "QA/QC Engineers",
+          "count": 1,
+          "experience": "1-5 years"
+        }
+      ]
     }
   ]
 }
